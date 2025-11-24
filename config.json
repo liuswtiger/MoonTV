@@ -84,50 +84,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
-  },
-  "live_site": {
-    "cctv1": {
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
-      "name": "CCTV-1 综合",
-      "group": "央视",
-      "type": "live"
     },
-    "cctv2": {
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8",
-      "name": "CCTV-2 财经",
-      "group": "央视",
-      "type": "live"
-    },
-    "cctv5": {
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
-      "name": "CCTV-5 体育",
-      "group": "央视",
-      "type": "live"
-    },
-    "cctv13": {
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8",
-      "name": "CCTV-13 新闻",
-      "group": "央视",
-      "type": "live"
-    },
-    "hunan": {
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8",
-      "name": "湖南卫视",
-      "group": "卫视",
-      "type": "live"
-    },
-    "dongfang": {
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
-      "name": "东方卫视",
-      "group": "卫视",
-      "type": "live"
-    },
-    "jiangsu": {
-      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8",
-      "name": "江苏卫视",
-      "group": "卫视",
-      "type": "live"
-    }
   }
 }
